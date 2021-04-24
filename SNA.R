@@ -6,45 +6,6 @@ library(tidygraph)
 library(sna)
 
 #### names ####
-names = c(
-  "anisha",
-  "nina",
-  "rowan",
-  "sara",
-  'ben',
-  'shayan',
-  'seijin',
-  'jorge',
-  'dominika',
-  'viola',
-  'cristina',
-  'nicole',
-  'riley',
-  'daisy',
-  'sarah m',
-  'owen',
-  'cam',
-  'jack',
-  'linea',
-  'eric',
-  'josh',
-  'lily',
-  'luis',
-  'lala',
-  'pedro',
-  'tanga',
-  'emilio',
-  'ada',
-  'zach',
-  'm',
-  'caroline',
-  'ishan',
-  'vivek',
-  'mustafa',
-  'spencer',
-  'luke',
-  'sebastian',
-  'laura')
 
 names = c(LETTERS,letters)
 names = names[1:38]
